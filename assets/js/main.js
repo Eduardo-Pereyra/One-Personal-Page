@@ -79,8 +79,8 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Ismail Tasdelen.", "Security Researcher.", "Bug Bounty Hunter.", "Developer."],
-      typeSpeed: 100,
+      strings: ["Eduardo Pereyra", "Software Developer"],
+      typeSpeed: 50,
       loop: true,
     });
   });
